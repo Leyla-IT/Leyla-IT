@@ -30,11 +30,6 @@ Email: sultanova.luwka@bk.ru
 <img src="https://logovectorseek.com/wp-content/uploads/2020/09/soapui-supported-by-smartbear-logo-vector.png" alt="SoapUI" width="100" height="50"/>&nbsp;
 <img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" alt=Chrome DevTools" width="100" height="50"/>&nbsp;
 <img src="https://mockoon.com/images/logo.svg" alt="Mockoon" width="100" height="70"/>&nbsp;
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*17YAdUNNWFfCk349xTOjhg.png" alt="Charles" width="250" height="90"/>&nbsp;
-<img src="https://toplogos.ru/images/logo-kriptopro.png" alt="КриптоПро" width="70" height="40"/>&nbsp;
-<img src="https://www.krista.ru/wp-content/uploads/2015/04/logo.png" alt="НПО КРИСТА" width="100" height="90"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" alt="Pycharm" width="100" height="90"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Acronis.svg/512px-Acronis.svg.png" alt="Acronis" width="150" height="70"/>&nbsp;
 </div>
  
 ## :file_folder: Проекты
