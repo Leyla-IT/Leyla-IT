@@ -2,7 +2,7 @@
 
 ## :man_technologist: Обо мне:
 - :raised_hand: Всем привет! Меня зовут Лейла, я джуниор QA-инженер, который ищет работу по душе!!!
-- 	:man_student: Прохожу обучение в онлайн школе  <a href="https://sky.pro/">, <a href="https://sky.pro/">
+- 	:man_student: Прохожу обучение в онлайн школе  <a href="https://sky.pro/">
     <img src="https://img.shields.io/badge/skypro-green/blue?style=for-the-badge&logo=skypro&logoColor=white" alt="skypro Badge"/> 
 
 - :point_right: В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
