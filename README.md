@@ -13,8 +13,8 @@
 </div>
  
 ## :man_technologist: Обо мне:
-- :raised_hand: Всем привет! Меня зовут Дмитрий, я начинающий тестировщик. Имею 12 летний опыт сисадмина в бюджетной организации, с ПО и сайтами знаком не по наслышке.
-- 	:man_student: Прохожу обучение в самой крутой онлайн школе  <a href="https://sky.pro/">
+- :raised_hand: Всем привет! Меня зовут Лейла, я начинающий тестировщик.
+- 	:man_student: Прохожу обучение в онлайн школе  <a href="https://sky.pro/">
     <img src="https://img.shields.io/badge/skypro-green/blue?style=for-the-badge&logo=skypro&logoColor=white" alt="skypro Badge"/> 
 
 - :point_right: В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
