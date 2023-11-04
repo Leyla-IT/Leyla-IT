@@ -1,17 +1,5 @@
 # Портфолио: инженер по тестированию
 
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/zDNjgq8AeddxxDhieI/200w.webp?cid=ecf05e471woq4swato0yfe9s5wehtyp9y92ffhg98xathugx&ep=v1_gifs_search&rid=200w.webp&ct=g" width="300"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://vk.com/docnot">
-    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
-    <a href="https://t.me/d0cnot">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
-  </a>
-</div>
- 
 ## :man_technologist: Обо мне:
 - :raised_hand: Всем привет! Меня зовут Лейла, я начинающий тестировщик.
 - 	:man_student: Прохожу обучение в онлайн школе  <a href="https://sky.pro/">
