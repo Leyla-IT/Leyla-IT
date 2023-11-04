@@ -22,7 +22,6 @@ Email: sultanova.luwka@bk.ru
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" alt="jira" width="100" height="100"/>&nbsp;
     <img src="https://img.shields.io/badge/qase%20io%20-8A2BE2" title="qase.io" alt="qase.io" width="100" height="100"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png" alt="Dbeaver" width="100" height="100"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" width="150" height="100"/>&nbsp;
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" width="150" height="100"/>&nbsp;
    <img src="https://logovtor.com/wp-content/uploads/2020/09/swagger-supported-by-smartbear-logo-vector.png" alt="Swagger" width="150" height="100"/>&nbsp;
@@ -36,7 +35,7 @@ Email: sultanova.luwka@bk.ru
 :writing_hand: __Проект 1: "Тестирования функционала "Личных событий" на вкладке Расписание Skyeng Teachers”__ 
 
 **Что нужно было сделать:**
-*Протестировать новую функциональность — личные события, в личном кабинете Преподавателя. Преподаватель может использовать личные события для собственных встреч, которые не привязаны к ученикам платформы Skyeng.*
+*Протестировать новую функциональность — личные события, в личном кабинете Преподавателя.
 
 :dart: __Задача №1__: Составить необходимую тестовую документацию в формате тест-кейсов и чек-листов
 
