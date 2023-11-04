@@ -45,9 +45,7 @@ __Как решал:__ _Для тестирования новой функци�
 
 **Ссылка на проект** :point_down: <div id="badges">
    
-      <img src="https://img.shields.io/badge/Project-1-red?style=for-the-badge&logo=Project-1&logoColor=white" alt="Project-1 Badge"/>
-     </div>
-  </a>
+
 
 :hourglass:**Выводы (итоги):**
 
