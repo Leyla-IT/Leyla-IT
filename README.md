@@ -18,7 +18,7 @@ Email: sultanova.luwka@bk.ru
 </div>
  
 
-# 📖_tabs: Навыки и технологии
+#bookmark_tabs: Навыки и технологии
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" alt="jira" width="100" height="100"/>&nbsp;
     <img src="https://img.shields.io/badge/qase%20io%20-8A2BE2" title="qase.io" alt="qase.io" width="100" height="100"/>&nbsp;
