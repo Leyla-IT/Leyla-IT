@@ -26,11 +26,11 @@ Email: sultanova.luwka@bk.ru
     <img src="https://img.shields.io/badge/qase%20io%20-8A2BE2" title="qase.io" alt="qase.io" width="100" height="100"/>&nbsp;
      <img src="https://logovtor.com/wp-content/uploads/2020/09/swagger-supported-by-smartbear-logo-vector.png" alt="Swagger" width="150" height="100"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Atlassian_Confluence_2017_logo.svg/512px-Atlassian_Confluence_2017_logo.svg.png" alt="Confluence" width="200" height="50"/>&nbsp;
+    <img src="https://logovectorseek.com/wp-content/uploads/2020/09/soapui-supported-by-smartbear-logo-vector.png" alt="SoapUI" width="100" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" width="150" height="100"/>&nbsp;
-    <img src="https://mockoon.com/images/logo.svg" alt="Mockoon" width="100" height="70"/>&nbsp;
-   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" width="150" height="100"/>&nbsp;
-<img src="https://logovectorseek.com/wp-content/uploads/2020/09/soapui-supported-by-smartbear-logo-vector.png" alt="SoapUI" width="100" height="50"/>&nbsp;
-<img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" alt=Chrome DevTools" width="100" height="50"/>&nbsp;
+<img src="https://mockoon.com/images/logo.svg" alt="Mockoon" width="100" height="70"/>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" width="150" height="100"/>&nbsp;
+   <img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" alt=Chrome DevTools" width="100" height="50"/>&nbsp;
 </div>
  
 ## :file_folder: Проекты
