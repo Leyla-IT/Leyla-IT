@@ -12,8 +12,7 @@ Email: sultanova.luwka@bk.ru
 <div id="badges"
     
   <a href="https://vk.com/sultanova.luwka">
-  <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
-      
+  <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>  
   <a href="https://t.me/sultanovaluwka">
   <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
  </a>
