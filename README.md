@@ -9,7 +9,7 @@
 ### Контактная информация
 Email: sultanova.luwka@bk.ru
 
-<div id="badges"
+<div id="badges">
     
   <a href="https://vk.com/sultanova.luwka">
   <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>  
